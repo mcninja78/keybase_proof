@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am mcninja78 on github.
+  * I am mcninja78 (https://keybase.io/mcninja78) on keybase.
+  * I have a public key ASBpPM2K6tj9R43XlFiGPMmkQKmXFhCSchluZnYlyIpzXgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120693ccd8aead8fd478dd79458863cc9a440a99716109272196e667625c88a735e0a",
+      "host": "keybase.io",
+      "kid": "0120693ccd8aead8fd478dd79458863cc9a440a99716109272196e667625c88a735e0a",
+      "uid": "930c9c2874b5b5c25d0714b6a77eb419",
+      "username": "mcninja78"
+    },
+    "merkle_root": {
+      "ctime": 1695609313,
+      "hash": "589d3a9b83c669d118aa4dfb55a907b1c76845d3fefd4528328b9c0ea607180aed9aeac896284391a82880f4596d1f0d35b4171d121db4d18290783f0f560160",
+      "hash_meta": "bb34d1093a63b6a593812924181c675caa78687d3a8107822e6fe2c0f4a9ed85",
+      "seqno": 24956503
+    },
+    "service": {
+      "entropy": "VupzeZLMO87NrWgKXPrcbKtB",
+      "name": "github",
+      "username": "mcninja78"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.1"
+  },
+  "ctime": 1695609324,
+  "expire_in": 504576000,
+  "prev": "ce0a205ab7542711d016c582104ee359c6f751545ab56f54923713bdd8ddc02f",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBpPM2K6tj9R43XlFiGPMmkQKmXFhCSchluZnYlyIpzXgo](https://keybase.io/mcninja78), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaTzNiurY/UeN15RYhjzJpECplxYQknIZbmZ2JciKc14Kp3BheWxvYWTESpcCBMQgzgogWrdUJxHQFsWCEE7jWcb3UVRatW9UkjcTvdjdwC/EIH8xFD13OJ6eApplw9TQVukENjZvMgtwy4CK/14B7Zm0AgHCo3NpZ8RAZ2cwrvqUUz46dRYInSbRIryV2YUqrzbCKWFvEy+mV4GHSNC74PC6127cIwcwthCbRWguXWgPUePXdju6hCL8AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEy8kIvb692clgnqXkKx7vhxoEc9H5t+cDBFhUGX2x5ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/mcninja78
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id mcninja78
+```
